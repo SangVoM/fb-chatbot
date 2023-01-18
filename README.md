@@ -1,13 +1,9 @@
-# Facebook Chatbot API Sample
+# Chatbot Message FB
 ===============
 
 [Messenger Platform ᴮᴱᵀᴬ](https://developers.facebook.com/docs/messenger-platform)
 
 [api.ai](https://api.ai/)
-
-
-![screenshot](../master/screenshot.png?raw=true)
-
 
 ```
 heroku config:set FB_ACCESS_TOKEN=your_access_token
