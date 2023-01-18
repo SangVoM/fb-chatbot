@@ -1,0 +1,29 @@
+{
+  "name": "fb-chatbot",
+  "version": "0.1.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "format": "prettier --write \"src/**/*.jsx\""
+  },
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "~4.13.3",
+    "request": "~2.71.0"
+  },
+  "engines": {
+    "node": "5.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SangVoM/fb-chatbot"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express",
+    "graph api"
+  ],
+  "license": "MIT"
+}
